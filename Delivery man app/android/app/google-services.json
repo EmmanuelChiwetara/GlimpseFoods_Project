@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "827121598443",
+    "project_id": "glimpse-foods-400723",
+    "storage_bucket": "glimpse-foods-400723.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:827121598443:android:79cfb2e1ad26e51ad7a3ae",
+        "android_client_info": {
+          "package_name": "com.glimpsefoods.delivery"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBjNrfKx9NINiNz9jjDsE6qa1b0utbWYvU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:827121598443:android:77a6aa66b06be8c6d7a3ae",
+        "android_client_info": {
+          "package_name": "com.glimpsefoods.user"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBjNrfKx9NINiNz9jjDsE6qa1b0utbWYvU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
